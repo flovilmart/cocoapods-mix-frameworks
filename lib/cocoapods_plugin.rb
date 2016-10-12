@@ -1,1 +1,1 @@
-require 'cocoapods-mix-frameworks/command'
+require 'cocoapods-mix-frameworks/mix'
