@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'cocoapods-mix-frameworks'
   spec.version       = CocoapodsMixFrameworks::VERSION
   spec.authors       = ['Florent Vilmart']
-  spec.email         = ['florentvilmart@me.com']
+  spec.email         = ['florent@flovilmart.com']
   spec.description   = %q{Mix use_framework! targets with static targets.}
   spec.summary       = %q{Mix use_framework! targets with static targets through a surrogate Framework target.}
   spec.homepage      = 'https://github.com/flovilmart/cocoapods-mix-frameworks'
