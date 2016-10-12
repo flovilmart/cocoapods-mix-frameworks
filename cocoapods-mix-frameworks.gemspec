@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = CocoapodsMixFrameworks::VERSION
   spec.authors       = ['Florent Vilmart']
   spec.email         = ['florentvilmart@me.com']
-  spec.description   = %q{A short description of cocoapods-mix-frameworks.}
-  spec.summary       = %q{A longer description of cocoapods-mix-frameworks.}
-  spec.homepage      = 'https://github.com/EXAMPLE/cocoapods-mix-frameworks'
+  spec.description   = %q{Mix use_framework! targets with static targets.}
+  spec.summary       = %q{Mix use_framework! targets with static targets.}
+  spec.homepage      = 'https://github.com/flovilmart/cocoapods-mix-frameworks'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
