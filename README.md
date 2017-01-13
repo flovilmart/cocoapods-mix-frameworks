@@ -8,4 +8,9 @@ A description of cocoapods-mix-frameworks.
 
 ## Usage
 
-    $ pod spec frameworks POD_NAME
+In your podfile:
+
+```
+plugin 'cocoapods-mix-frameworks'
+mix_frameworks
+```
