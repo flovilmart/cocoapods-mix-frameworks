@@ -1,0 +1,16 @@
+plugin 'cocoapods-mix-frameworks'
+mix_frameworks
+
+target 'CocoaPods-Mix-Demo' do
+  pod 'Fabric'
+end
+
+target 'CocoaPods-Mix-Framework' do
+    use_frameworks!
+    pod 'Moya'
+end
+
+target 'CocoaPods-Mix-Action' do
+    use_frameworks!
+    pod 'Moya'
+end

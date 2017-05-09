@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Fabric (1.6.11)
+  - Moya (8.0.3):
+    - Moya/Core (= 8.0.3)
+  - Moya/Core (8.0.3):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Result (3.2.1)
+
+DEPENDENCIES:
+  - Fabric
+  - Moya
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  Moya: d3721622e3cc0cc2f038d69a258686f0b66e7252
+  Result: 2453a22e5c5b11c0c3a478736e82cd02f763b781
+
+PODFILE CHECKSUM: d5208a9e7bd8dfbc7c0aad32eca5faeef462c648
+
+COCOAPODS: 1.1.1
