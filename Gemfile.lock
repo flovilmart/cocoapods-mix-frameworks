@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    cocoapods-mix-frameworks (0.0.2)
+    cocoapods-mix-frameworks (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -77,4 +77,4 @@ DEPENDENCIES
   cocoapods-mix-frameworks!
 
 BUNDLED WITH
-   1.13.6
+   1.14.3
