@@ -11,6 +11,13 @@ end
 
 module Pod
   class Installer
+    # For cocoapods 1.3.+
+    class Xcode
+      class TargetValidator
+        prepend InstallerExtensions
+      end
+    end
+    # end cocoapods 1.3.+
     prepend InstallerExtensions
     class Analyzer
       prepend AnalyzerExtensions
